@@ -1,0 +1,29 @@
+[
+  { "type": "banner",    "image": "assets/crack.jpg", "out": "banner.png" },
+  { "type": "avatar",    "image": "assets/slab.jpg",  "out": "avatar.png" },
+  { "type": "watermark", "image": "assets/slab.jpg",  "out": "watermark.png" },
+
+  { "type": "thumbnail", "image": "assets/crack.jpg", "out": "thumb_01.png",
+    "setup": "THE DEVIL WASN'T MY PROBLEM", "payoff": "PEOPLE WERE" },
+
+  { "type": "thumbnail", "image": "assets/crack.jpg", "out": "thumb_02.png",
+    "setup": "I PRAYED WHERE", "payoff": "NO ONE COULD SEE" },
+
+  { "type": "thumbnail", "image": "assets/crack.jpg", "out": "thumb_03.png",
+    "setup": "GOD DIDN'T", "payoff": "STOP THE STORM" },
+
+  { "type": "thumbnail", "image": "assets/crack.jpg", "out": "thumb_04.png",
+    "setup": "I FORGAVE THEM", "payoff": "BUT I STILL REMEMBER" },
+
+  { "type": "thumbnail", "image": "assets/crack.jpg", "out": "thumb_05.png",
+    "setup": "MY MOTHER CARRIED", "payoff": "MORE THAN I KNEW" },
+
+  { "type": "thumbnail", "image": "assets/crack.jpg", "out": "thumb_06.png",
+    "setup": "I WAS DROWNING", "payoff": "AND CALLED IT FINE" },
+
+  { "type": "thumbnail", "image": "assets/crack.jpg", "out": "thumb_07.png",
+    "setup": "THE SILENCE", "payoff": "AFTER BETRAYAL" },
+
+  { "type": "thumbnail", "image": "assets/crack.jpg", "out": "thumb_08.png",
+    "setup": "GRACE FOUND ME", "payoff": "WHEN I STOPPED LOOKING" }
+]
